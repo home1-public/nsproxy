@@ -9,7 +9,7 @@ import (
 
 	"github.com/codegangsta/cli"
 	"github.com/coreos/go-etcd/etcd"
-	nameNet "github.com/coreos/go-namespaces/net"
+	nameNet "github.com/zhl-home1/home1-go-namespaces/net"
 	"github.com/coreos/go-namespaces/namespace"
 )
 
